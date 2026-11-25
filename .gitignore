@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地工作记忆与临时产物
+.workbuddy/
+*.log
+.test_frames/
+.gui_test_out/
+.gif_test*/
+.cancel_test/
+.tab0_out/
+
+# IDE
+.idea/
+.vscode/
